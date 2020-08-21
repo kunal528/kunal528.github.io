@@ -9289,8 +9289,9 @@ textarea.form-control {
   background-position: center center;
   position: relative;
   display: block;
-  width: 100%;
-  height: 300px; }
+  width: 950px;
+  height: 450px; 
+}
 
 .blog-entry {
   position: relative; }
